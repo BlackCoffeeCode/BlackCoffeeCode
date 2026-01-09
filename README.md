@@ -24,16 +24,15 @@
 
 ```javascript
 const techStack = {
-  languages: ["JavaScript", "TypeScript", "Python", "Java", "C++"],
-  frontend: ["React", "Next.js", "TailwindCSS"],
-  backend: ["Node.js", "Express", "MongoDB"],
-  tools: ["Git", "Docker", "Linux"]
+  languages: ["JavaScript", "Python", "Java", "C"],
+  frontend: ["HTML", "CSS", "TailwindCSS"],
+  tools: ["Git", "Linux"]
 };
 ```
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,python,java,cpp,html,css,tailwind,git,github,docker,linux,vscode,postman,vim&perline=10&theme=dark" alt="Skills" />
+    <img src="https://skillicons.dev/icons?i=js,python,java,c,html,css,tailwind,git,github,linux,vscode,postman,vim&perline=10&theme=dark" alt="Skills" />
   </a>
 </p>
 
