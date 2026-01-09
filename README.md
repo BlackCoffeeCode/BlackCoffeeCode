@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="https://github.com/BlackCoffeeCode/BlackCoffeeCode/blob/main/light-banner.png?raw=true" alt="Light Aesthetic Banner" width="100%" />
+</div>
+
+<div align="center">
 
 # <img src="https://readme-typing-svg.herokuapp.com?font=Rubik+Glitch&pause=1000&color=008F11&background=00000000&center=true&vCenter=true&width=435&lines=Initialising+Uplink...;root%40BlackCoffeeCode:~%23+whoami;Ethical+Hacker;Penetration+Tester;Open+Source+Enthusiast;Navodayan;NITian;System+Compromised...+Welcome.&v=3" alt="Typing SVG" />
 
