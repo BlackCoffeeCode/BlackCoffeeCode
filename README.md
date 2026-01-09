@@ -2,8 +2,6 @@
 
 # <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&background=00000000&center=true&vCenter=true&width=435&lines=Initialising+Uplink...;root%40BlackCoffeeCode:~%23+whoami;Ethical+Hacker;Penetration+Tester;Open+Source+Enthusiast;Navodayan;NITian;System+Compromised...+Welcome." alt="Typing SVG" />
 
-<br/>
-
 ```bash
 #!/bin/bash
 ./socials.sh --connect
