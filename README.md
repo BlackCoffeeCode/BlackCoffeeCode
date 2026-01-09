@@ -14,7 +14,7 @@
 ./socials.sh --connect
 ```
 
-<a href="https://www.linkedin.com/in/piyushdhakad/">
+<a href="https://www.linkedin.com/in/piyushdhakad/" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" />
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
