@@ -1,6 +1,10 @@
 <div align="center">
 
-# <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D200&background=00000000&center=true&vCenter=true&width=435&lines=Initialising+Uplink...;root%40BlackCoffeeCode:~%23+whoami;Ethical+Hacker;Penetration+Tester;Open+Source+Enthusiast;Navodayan;NITian;System+Compromised...+Welcome.&v=2" alt="Typing SVG" />
+# <img src="https://readme-typing-svg.herokuapp.com?font=Rubik+Glitch&pause=1000&color=008F11&background=00000000&center=true&vCenter=true&width=435&lines=Initialising+Uplink...;root%40BlackCoffeeCode:~%23+whoami;Ethical+Hacker;Penetration+Tester;Open+Source+Enthusiast;Navodayan;NITian;System+Compromised...+Welcome.&v=3" alt="Typing SVG" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=BlackCoffeeCode&theme=radical&hide_border=true&background=0D1117&ring=00FF00&fire=00FF00&currStreakNum=00FF00&sideNums=c9d1d9&currStreakLabel=00FF00&sideLabels=c9d1d9&dates=c9d1d9" alt="BlackCoffeeCode's Streak" height="180"/>
+
+<br/>
 
 ```bash
 #!/bin/bash
@@ -34,6 +38,22 @@ const techStack = {
 </div>
 
 ---
+
+### <span style="color: #00FF00">root@BlackCoffeeCode:~/stats#</span> ./view_profile_details.sh
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/BlackCoffeeCode/BlackCoffeeCode/main/profile-summary-card-output/radical/0-profile-details.svg" alt="Profile Details" />
+</div>
+
+<br/>
+
+### <span style="color: #00FF00">root@BlackCoffeeCode:~/stats#</span> ./view_languages.sh
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/BlackCoffeeCode/BlackCoffeeCode/main/profile-summary-card-output/radical/2-most-commit-language.svg" alt="Top Languages" />
+</div>
+
+<br/>
 
 ### <span style="color: #00FF00">root@BlackCoffeeCode:~/activity#</span> ./view_commit_graph.sh
 
