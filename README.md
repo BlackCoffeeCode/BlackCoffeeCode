@@ -8,7 +8,7 @@
 ```
 
 <a href="https://www.linkedin.com/in/piyushdhakad/">
-  <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0077B5" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0077B5&v=1" alt="LinkedIn" />
 </a>
 <a href="https://github.com/BlackCoffeeCode">
   <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FF00" alt="GitHub" />
