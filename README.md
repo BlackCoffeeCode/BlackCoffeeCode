@@ -18,10 +18,23 @@
 <br/>
 
 ```javascript
-const techStack = {
-  languages: ["JavaScript", "Python", "Java", "C"],
-  frontend: ["HTML", "CSS"],
-  tools: ["Git", "Linux"]
+const skills = {
+  hackingTools: [
+    "Linux", "ShellGPT", "Wireshark", "Nmap", "Metasploit", "Burp Suite",
+    "ZAP", "Recon-ng", "Maltego", "Nessus", "OpenVAS", "John the Ripper",
+    "Hashcat", "Hydra", "VirusTotal"
+  ],
+  languages: ["C", "Java", "HTML/CSS", "JavaScript"],
+  platforms: ["TryHackMe", "Git", "GitHub", "VSCode"],
+  networking: [
+    "OSI & TCP/IP Models", "IP Addressing", "IDS/IPS", "CIA Triad",
+    "TCP", "UDP", "ICMP", "ARP", "HTTP"
+  ],
+  frameworks: ["NIST", "OWASP Top 10", "CVE/CPE/CWE"],
+  softSkills: [
+    "Leadership", "Public Speaking", "Community Building",
+    "Technical Writing", "Project Management", "Problem-Solving"
+  ]
 };
 ```
 
