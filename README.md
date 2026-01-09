@@ -26,6 +26,13 @@
 <br/>
 <br/>
 
+<div align="center">
+  <img src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4184591" alt="TryHackMe" />
+</div>
+
+<br/>
+<br/>
+
 ```javascript
 const skills = {
   hackingTools: [
