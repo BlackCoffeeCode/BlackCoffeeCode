@@ -44,6 +44,29 @@ const skills = {
   </a>
 </p>
 
+<p align="center">
+  <!-- Hacking Tools -->
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
+  <img src="https://img.shields.io/badge/Nmap-004880?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap" />
+  <img src="https://img.shields.io/badge/Metasploit-333333?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit" />
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite" />
+  <img src="https://img.shields.io/badge/OWASP_ZAP-005C9C?style=for-the-badge&logo=owasp&logoColor=white" alt="ZAP" />
+  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" alt="Splunk" />
+  <br/>
+  <img src="https://img.shields.io/badge/John_the_Ripper-000000?style=for-the-badge&logo=hackthebox&logoColor=red" alt="JtR" />
+  <img src="https://img.shields.io/badge/Hashcat-D40000?style=for-the-badge&logo=hashcat&logoColor=white" alt="Hashcat" />
+  <img src="https://img.shields.io/badge/Hydra-000000?style=for-the-badge&logo=hackthebox&logoColor=red" alt="Hydra" />
+  <img src="https://img.shields.io/badge/Nessus-005CA5?style=for-the-badge&logo=tenable&logoColor=white" alt="Nessus" />
+  <img src="https://img.shields.io/badge/AirCrack--NG-D01C1C?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Aircrack" />
+  <img src="https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=tor-project&logoColor=white" alt="Tor" />
+  <br/>
+  <!-- Frameworks & Others -->
+  <img src="https://img.shields.io/badge/OWASP_Top_10-000000?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP" />
+  <img src="https://img.shields.io/badge/MITRE_ATT&CK-005B94?style=for-the-badge&logo=mitre&logoColor=white" alt="MITRE" />
+  <img src="https://img.shields.io/badge/NIST-003366?style=for-the-badge&logo=nist&logoColor=white" alt="NIST" />
+</p>
+
 </div>
 
 ---
