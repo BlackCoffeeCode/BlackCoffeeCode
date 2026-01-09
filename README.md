@@ -2,17 +2,6 @@
 
 # <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&background=00000000&center=true&vCenter=true&width=435&lines=Initialising+Uplink...;root%40BlackCoffeeCode:~%23+whoami;Software+Developer;Open+Source+Enthusiast;System+Compromised...+Welcome." alt="Typing SVG" />
 
-```bash
-# User Profile Loaded
-------------------------------------
-user:      BlackCoffeeCode
-role:      Software Developer
-commits:   600+ (Yearly Estimate)
-stars:     20+
-repos:     12
-status:    Online 🟢
-------------------------------------
-```
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=BlackCoffeeCode&theme=radical&hide_border=true&background=0D1117&ring=00FF00&fire=00FF00&currStreakNum=00FF00&sideNums=c9d1d9&currStreakLabel=00FF00&sideLabels=c9d1d9&dates=c9d1d9" alt="BlackCoffeeCode's Streak" height="180"/>
 
 <br/>
@@ -50,19 +39,19 @@ const techStack = {
 
 ---
 
+### <span style="color: #00FF00">root@BlackCoffeeCode:~/stats#</span> ./view_profile_details.sh
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/BlackCoffeeCode/BlackCoffeeCode/main/profile-summary-card-output/radical/0-profile-details.svg" alt="Profile Details" />
+</div>
+
+<br/>
+
 ### <span style="color: #00FF00">root@BlackCoffeeCode:~/stats#</span> ./view_languages.sh
 
-```bash
----------------------------------------------------
-Language    | Usage      | Percentage
----------------------------------------------------
-JavaScript  | ########## | 45%
-Python      | ########   | 35%
-Java        | ####       | 15%
-C           | #          | 5%
----------------------------------------------------
-System Status: Optimized
-```
+<div align="center">
+  <img src="https://raw.githubusercontent.com/BlackCoffeeCode/BlackCoffeeCode/main/profile-summary-card-output/radical/2-most-commit-language.svg" alt="Top Languages" />
+</div>
 
 <br/>
 
