@@ -7,7 +7,7 @@
 
 <div align="center">
 
-# <img src="https://readme-typing-svg.herokuapp.com?font=Rubik+Glitch&size=80&pause=1000&color=008F11&background=00000000&center=true&vCenter=true&width=1800&height=200&lines=Initialising+Uplink...;root%40BlackCoffeeCode:~%23+whoami;Ethical+Hacker;Penetration+Tester;Open+Source+Enthusiast;Navodayan;NITian;System+Compromised...+Welcome.&v=ClipFixedFinal" alt="Typing SVG" />
+# <img src="https://readme-typing-svg.herokuapp.com?font=Rubik+Glitch&size=80&pause=1000&color=008F11&background=00000000&center=true&vCenter=true&width=1800&height=150&lines=Initialising+Uplink...;root%40BlackCoffeeCode:~%23+whoami;Ethical+Hacker;Penetration+Tester;Open+Source+Enthusiast;Navodayan;NITian;System+Compromised...+Welcome.&v=ClipFixedFinal" alt="Typing SVG" />
 
 ```bash
 #!/bin/bash
