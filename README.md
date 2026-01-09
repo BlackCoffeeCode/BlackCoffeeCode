@@ -2,7 +2,6 @@
   <img 
     src="https://raw.githubusercontent.com/BlackCoffeeCode/BlackCoffeeCode/main/light-banner.png"
     alt="GitHub Profile Banner"
-    width="100%"
   />
 </div>
 
