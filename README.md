@@ -42,9 +42,17 @@ const techStack = {
 
 ### <span style="color: #00FF00">root@BlackCoffeeCode:~/stats#</span> ./view_languages.sh
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlackCoffeeCode&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF00&text_color=c9d1d9" alt="Top Languages" />
-</div>
+```bash
+---------------------------------------------------
+Language    | Usage      | Percentage
+---------------------------------------------------
+JavaScript  | ########## | 45%
+Python      | ########   | 35%
+Java        | ####       | 15%
+C           | #          | 5%
+---------------------------------------------------
+System Status: Optimized
+```
 
 <br/>
 
