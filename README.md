@@ -1,5 +1,9 @@
 <div align="center">
-  <img src="https://github.com/BlackCoffeeCode/BlackCoffeeCode/blob/main/light-banner.png?raw=true&v=banner1" alt="Light Aesthetic Banner" width="100%" />
+  <img 
+    src="https://raw.githubusercontent.com/BlackCoffeeCode/BlackCoffeeCode/main/light-banner.png"
+    alt="GitHub Profile Banner"
+    width="100%"
+  />
 </div>
 
 <div align="center">
