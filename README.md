@@ -27,7 +27,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/PiyushDhakad.png" alt="TryHackMe" />
+  <img src="https://github.com/BlackCoffeeCode/BlackCoffeeCode/blob/main/link-to-tryhackme.png?raw=true" alt="TryHackMe" />
 </div>
 
 <br/>

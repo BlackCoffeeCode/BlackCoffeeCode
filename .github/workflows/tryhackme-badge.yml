@@ -1,0 +1,25 @@
+name: Update TryHackMe Badge
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Runs daily at midnight
+  workflow_dispatch: # Allows manual trigger
+
+jobs:
+  update-badge:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Update TryHackMe Badge
+        uses: p4p1/tryhackme-badge-workflow@v1.0.0
+        with:
+          user_id: "4184591" # User's Public ID
+          image_path: "link-to-tryhackme.png" # Output file name
+          
+      - name: Commit and push changes
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "chore: update tryhackme badge"
+          file_pattern: "link-to-tryhackme.png"
