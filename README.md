@@ -1,6 +1,14 @@
 <div align="center">
 
+<<<<<<< HEAD
 # <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&background=00000000&center=true&vCenter=true&width=435&lines=Initialising+Uplink...;root%40BlackCoffeeCode:~%23+whoami;Ethical+Hacker;Penetration+Tester;Open+Source+Enthusiast;Navodayan;NITian;System+Compromised...+Welcome." alt="Typing SVG" />
+=======
+# <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D200&background=00000000&center=true&vCenter=true&width=435&lines=Initialising+Uplink...;root%40BlackCoffeeCode:~%23+whoami;Ethical+Hacker;Penetration+Tester;Open+Source+Enthusiast;Navodayan;NITian;System+Compromised...+Welcome.&v=2" alt="Typing SVG" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=BlackCoffeeCode&theme=radical&hide_border=true&background=0D1117&ring=00FF00&fire=00FF00&currStreakNum=00FF00&sideNums=c9d1d9&currStreakLabel=00FF00&sideLabels=c9d1d9&dates=c9d1d9" alt="BlackCoffeeCode's Streak" height="180"/>
+
+<br/>
+>>>>>>> 2df0329 (feat: update typing header text and color)
 
 ```bash
 #!/bin/bash
