@@ -35,30 +35,6 @@ const techStack = {
 
 ---
 
-### <span style="color: #00FF00">root@BlackCoffeeCode:~/stats#</span> ./view_profile_details.sh
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/BlackCoffeeCode/BlackCoffeeCode/main/profile-summary-card-output/radical/0-profile-details.svg" alt="Profile Details" />
-</div>
-
-<br/>
-
-### <span style="color: #00FF00">root@BlackCoffeeCode:~/stats#</span> ./view_languages.sh
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/BlackCoffeeCode/BlackCoffeeCode/main/profile-summary-card-output/radical/2-most-commit-language.svg" alt="Top Languages" />
-</div>
-
-<br/>
-
-### <span style="color: #00FF00">root@BlackCoffeeCode:~/activity#</span> ./view_commit_graph.sh
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BlackCoffeeCode&theme=react-dark&bg_color=0D1117&hide_border=true&color=00FF00&line=00FF00&point=c9d1d9&area=true" alt="Activity Graph" />
-</div>
-
-<br/>
-
 ### <span style="color: #00FF00">root@BlackCoffeeCode:~/projects#</span> ls -la
 
 | Access | 📂 Project | 📝 Description | 🛠️ Tech Stack | 🔗 Uplink |
