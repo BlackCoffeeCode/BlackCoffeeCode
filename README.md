@@ -25,7 +25,7 @@
 ```javascript
 const techStack = {
   languages: ["JavaScript", "Python", "Java", "C"],
-  frontend: ["HTML", "CSS", "TailwindCSS"],
+  frontend: ["HTML", "CSS"],
   tools: ["Git", "Linux"]
 };
 ```
