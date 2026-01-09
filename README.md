@@ -33,13 +33,6 @@
 <br/>
 <br/>
 
-<div align="center">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/PiyushDhakad.png" alt="TryHackMe" />
-</div>
-
-<br/>
-<br/>
-
 ```javascript
 const skills = {
   hackingTools: [
