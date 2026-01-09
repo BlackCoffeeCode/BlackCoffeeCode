@@ -39,22 +39,6 @@ const techStack = {
 
 ---
 
-### <span style="color: #00FF00">root@BlackCoffeeCode:~/stats#</span> ./view_profile_details.sh
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/BlackCoffeeCode/BlackCoffeeCode/main/profile-summary-card-output/radical/0-profile-details.svg" alt="Profile Details" />
-</div>
-
-<br/>
-
-### <span style="color: #00FF00">root@BlackCoffeeCode:~/stats#</span> ./view_languages.sh
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/BlackCoffeeCode/BlackCoffeeCode/main/profile-summary-card-output/radical/2-most-commit-language.svg" alt="Top Languages" />
-</div>
-
-<br/>
-
 ### <span style="color: #00FF00">root@BlackCoffeeCode:~/activity#</span> ./view_commit_graph.sh
 
 <div align="center">
