@@ -27,7 +27,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4184591" alt="TryHackMe" />
+  <img src="https://tryhackme-badges.s3.amazonaws.com/PiyushDhakad.png" alt="TryHackMe" />
 </div>
 
 <br/>
