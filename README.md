@@ -1,6 +1,6 @@
 <div align="center">
   <img 
-    src="https://raw.githubusercontent.com/BlackCoffeeCode/BlackCoffeeCode/main/light-banner.png?v=REAL_FINAL_414PM"
+    src="https://raw.githubusercontent.com/BlackCoffeeCode/BlackCoffeeCode/main/brand-new-banner.png"
     alt="GitHub Profile Banner"
   />
 </div>
