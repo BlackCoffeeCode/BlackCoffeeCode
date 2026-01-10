@@ -40,7 +40,7 @@ const skills = {
     "ZAP", "Recon-ng", "Maltego", "Nessus", "OpenVAS", "John the Ripper",
     "Hashcat", "Hydra", "VirusTotal"
   ],
-  languages: ["C", "Java", "HTML/CSS", "JavaScript"],
+  languages: ["C", "Java", "Python", "HTML/CSS", "JavaScript"],
   platforms: ["TryHackMe", "Git", "GitHub", "VSCode"],
   networking: [
     "OSI & TCP/IP Models", "IP Addressing", "IDS/IPS", "CIA Triad",
