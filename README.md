@@ -56,7 +56,7 @@ const skills = {
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,python,java,c,html,css,tailwind,git,github,linux,vscode,postman,vim&perline=10&theme=dark" alt="Skills" />
+    <img src="https://skillicons.dev/icons?i=bash,js,python,java,c,html,css,tailwind,git,github,linux,vscode,postman,vim&perline=10&theme=dark" alt="Skills" />
   </a>
 </p>
 
